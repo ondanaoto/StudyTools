@@ -4,7 +4,7 @@
   - [ツール](#ツール)
     - [ポモドーロタイマー](#ポモドーロタイマー)
       - [機能](#機能)
-    - [使い方](#使い方)
+      - [使い方](#使い方)
 
 
 # StudyTools
@@ -18,7 +18,7 @@
 ### ポモドーロタイマー
 #### 機能
 一定の時間の間、作業開始のアラームと休憩開始のアラーム音を交互に鳴らします。
-### 使い方
+#### 使い方
 1. `shells/pomodoro_timer_template.sh`を編集して`pomodoro_timer.sh`として保存します(保存場所はどこでも良いです)。
   - `/path/to/python`はpythonのパスに書き換えます(venv使う場合は`/path/to/StudyTools/`+`venv/bin/python`になります)。
   - `/path/to/pomodoro_service.py`は`pomodoro_service.py`のパスに書き換えます。
