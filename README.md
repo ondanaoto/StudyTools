@@ -5,6 +5,7 @@
     - [ポモドーロタイマー](#ポモドーロタイマー)
       - [機能](#機能)
       - [使い方](#使い方)
+  - [注意](#注意)
 
 
 # StudyTools
@@ -26,3 +27,6 @@
 2. `pomodoro_timer.sh`を実行します。
 
 もしくはsrc/pomodoro_service.pyを直接実行しても同じです。デフォルト値はsrc/constants.pyに書いているので適当に変更してください。
+## 注意
+効果音は以下のサイトからお借りしています。ありがとうございます。
+https://soundeffect-lab.info/sound/button/
