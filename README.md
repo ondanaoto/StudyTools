@@ -1,4 +1,5 @@
 - [StudyTools](#studytools)
+  - [TODO](#todo)
   - [Abstract](#abstract)
   - [Setup](#setup)
   - [ツール](#ツール)
@@ -14,6 +15,8 @@
 
 
 # StudyTools
+## TODO
+Reactやらtypescriptで実装し直してlocalhostでアプリケーションとして利用できるようにしたい
 ## Abstract
 自分が普段勉強するのに利用しているツールをまとめています。
 ## Setup
